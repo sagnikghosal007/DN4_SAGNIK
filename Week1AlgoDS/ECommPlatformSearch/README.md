@@ -41,12 +41,12 @@ Defined a `Product` class with:
 
 productId     productName     Category       
 
-  101     "Laptop"        "Electronics"
-  102      "Table"         "Furniture"
-  103       "Shoes"         "Fashion"
-  104      "Headphone"      "Accessories"
-  105       "DSLR Camera"   "Electronics"
-  106    "Washing Machine"     "Electronics"
+ - 101     "Laptop"        "Electronics"
+  - 102      "Table"         "Furniture"
+  - 103       "Shoes"         "Fashion"
+  - 104      "Headphone"      "Accessories"
+  - 105       "DSLR Camera"   "Electronics"
+  - 106    "Washing Machine"     "Electronics"
   
   
   
