@@ -14,6 +14,6 @@ public class Employee {
     }
 
     public void display() {
-        System.out.println(employeeId + " | " + name + " | " + position + " | $" + salary);
+        System.out.println(employeeId + " | " + name + " | " + position + " | Rs " + salary);
     }
 }
