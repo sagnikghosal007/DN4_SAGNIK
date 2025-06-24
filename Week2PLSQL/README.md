@@ -33,7 +33,10 @@ There are total of 3 scenarios are given here :
 - to update and  applying an interest rate of 1% to the current balance.
 - to add a bonus percentage passed as a parameter
 - to check that the source account has sufficient balance before making the transfer
-- Based on the sample data given , the expected output will be :
-  Scenario 1 : Monthly interest processed for all Savings accounts.
-  Scenario 2 : Salaries updated with bonus for department: IT
-  Scenario 3 : Transferred 300 from Account 1 to Account 2
+
+
+   Based on the sample data given , the expected output will be :
+  
+  -Scenario 1 : Monthly interest processed for all Savings accounts.
+  -Scenario 2 : Salaries updated with bonus for department: IT
+  -Scenario 3 : Transferred 300 from Account 1 to Account 2
