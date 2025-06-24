@@ -1,4 +1,4 @@
-## Exercise 1: Control Structures
+# Exercise 1: Control Structures
 There are total of 3 scenarios given:
 - to  apply a 1% discount to loan interest rates for customers aged above 60 years.
 - to update employee increased salary
