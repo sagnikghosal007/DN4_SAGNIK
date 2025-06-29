@@ -23,3 +23,9 @@ This project demonstrates advanced usage of **JUnit 5**, **Mockito**, and **SLF4
 ![Screenshot 2025-06-26 213937](https://github.com/user-attachments/assets/bf2f5476-5582-4dfc-b0a3-a08737b2ed72)
 
 
+---
+
+## SLF4J Logging output in console 
+
+- 12:00:01.123 [main] ERROR com.example.logging.LoggingExample - This is an error message
+- 12:00:01.124 [main] WARN  com.example.logging.LoggingExample - This is a warning message
