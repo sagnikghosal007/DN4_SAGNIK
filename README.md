@@ -7,9 +7,9 @@ Welcome to the **Java Full Stack Engineer (FSE)** hands-on practice repository f
 ## 👨‍🎓 Author
 
 **Sagnik Ghosal**  
-Superset ID :  6411298 
-Stream: Computer Science and Engineering (CSE)  
-Batch: Digital Nurture 4.0
+- Superset ID :  6411298 
+- Stream: Computer Science and Engineering (CSE)  
+- Batch: Digital Nurture 4.0
 
 ---
 
