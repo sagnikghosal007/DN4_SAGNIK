@@ -21,8 +21,8 @@ This project contains foundational Spring exercises to demonstrate the core conc
 
 #### ✅ Expected Output:
 
-BookService: Calling BookRepository...
-Fetching list of books from repository...
+![image](https://github.com/user-attachments/assets/1b0e0c88-6cac-45ee-9204-08e020d14762)
+
 
 
 ---
@@ -41,9 +41,8 @@ Fetching list of books from repository...
 
 #### ✅ Expected Output:
 
-Dependency Injected BookRepository into BookService.
-BookService: Calling BookRepository...
-Fetching list of books from repository...
+![image](https://github.com/user-attachments/assets/0e70a78d-6e5b-4fdd-a1f4-ac7eb47850c6)
+
 
 
 
