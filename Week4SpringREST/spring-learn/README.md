@@ -117,13 +117,18 @@ Component	Description
 - pom.xml	Maven project configuration file
 
 
-# SME for Spring REST handson2
+# SME for Spring REST handson 2
 
-### output
+### output (HelloController)
 
 ![WhatsApp Image 2025-07-12 at 18 04 07_8ae1698e](https://github.com/user-attachments/assets/1dabaf9e-00c7-46e0-b500-a0f69e90bd01)
 
 ![WhatsApp Image 2025-07-12 at 18 08 15_f805dfab](https://github.com/user-attachments/assets/cd056910-cde2-4fda-8a77-33592564b460)
+
+---
+### outpput (CountryController) 
+
+![WhatsApp Image 2025-07-12 at 18 33 57_4f828125](https://github.com/user-attachments/assets/164452f6-a7cc-4c20-9516-4969b4bf5fec)
 
 
 ## HTTP Headers – Developer Tools vs Postman
