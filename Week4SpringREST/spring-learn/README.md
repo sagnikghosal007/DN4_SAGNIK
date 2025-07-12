@@ -1,4 +1,4 @@
-### SME for Spring REST hands-on 1 
+# SME for Spring REST hands-on 1 
 ## src/main/java
 Purpose: Contains the main Java source code.
 
