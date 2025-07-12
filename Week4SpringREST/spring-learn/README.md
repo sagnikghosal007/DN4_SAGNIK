@@ -196,6 +196,9 @@ Inspecting headers in Postman is especially helpful while testing APIs for:
 ### output (CountryController) 
 
 ![WhatsApp Image 2025-07-12 at 18 33 57_4f828125](https://github.com/user-attachments/assets/164452f6-a7cc-4c20-9516-4969b4bf5fec)
+### get by country code output 
+![WhatsApp Image 2025-07-12 at 18 57 52_b12610f3](https://github.com/user-attachments/assets/a217a58b-7ebb-4ac9-a7d3-b79e1bd37069)
+
 
 ## Endpoint: `/country`
 
