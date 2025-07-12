@@ -115,3 +115,76 @@ Component	Description
 - SpringLearnApplication	Main class to bootstrap the app
 - @SpringBootApplication	Meta-annotation for config, scan, and auto-setup
 - pom.xml	Maven project configuration file
+
+
+# SME for Spring REST handson2
+
+### output
+
+![WhatsApp Image 2025-07-12 at 18 04 07_8ae1698e](https://github.com/user-attachments/assets/1dabaf9e-00c7-46e0-b500-a0f69e90bd01)
+
+![WhatsApp Image 2025-07-12 at 18 08 15_f805dfab](https://github.com/user-attachments/assets/cd056910-cde2-4fda-8a77-33592564b460)
+
+
+## HTTP Headers – Developer Tools vs Postman
+
+This guide explains how to **view HTTP headers** in both the **Network tab of browser developer tools** and **Postman**, with step-by-step SME (Subject Matter Expert) clarity.
+
+---
+
+##  1. Viewing HTTP Headers in Browser Developer Tools (Network Tab)
+
+###  Steps to Follow:
+
+1. Open your web application in **Chrome** (or any modern browser).
+2. Right-click anywhere on the page → Click on **"Inspect"** or press `Ctrl + Shift + I`.
+3. Navigate to the **"Network"** tab in Developer Tools.
+4. Reload the page (`F5` or `Ctrl + R`) to capture network activity.
+5. Click on any HTTP request (e.g., `GET`, `POST`, etc.) listed on the left side.
+6. In the right pane, click on the **"Headers"** tab.
+
+###  What You'll See:
+| Section | Description |
+|--------|-------------|
+| **General** | Shows method (GET/POST), status code (e.g., 200 OK), remote address, etc. |
+| **Request Headers** | Headers sent from browser to server (like `Host`, `User-Agent`, `Accept`, etc.) |
+| **Response Headers** | Headers returned from server (like `Content-Type`, `Date`, `Cache-Control`, etc.) |
+
+###  SME Note:
+HTTP headers are crucial for controlling caching, authentication, content negotiation, and CORS policies.
+
+---
+
+##  2. Viewing HTTP Headers in Postman
+
+###  Steps to Follow:
+
+1. Open **Postman**.
+2. Choose the HTTP method (`GET`, `POST`, etc.).
+3. Enter the URL of the endpoint.
+4. Click **"Send"**.
+5. Once the response is received, go to the **"Headers"** tab under the **Response section**.
+
+###  What You'll See:
+| Section | Description |
+|--------|-------------|
+| **Response Headers** | Headers like `Content-Type`, `Content-Length`, `Server`, `Date`, etc. |
+| **Request Headers (Optional)** | Found under the **"Console"** or **"Code"** sections if you want to see what headers were sent. |
+
+###  SME Note:
+Inspecting headers in Postman is especially helpful while testing APIs for:
+- CORS headers (`Access-Control-Allow-Origin`)
+- Auth headers (`Authorization`, `Bearer token`)
+- Server-side headers (`X-Powered-By`, `Set-Cookie`)
+
+---
+
+##  Summary Table
+
+| Tool         | Where to Find Headers            | Main Use Cases |
+|--------------|----------------------------------|----------------|
+| **Browser**  | Dev Tools → Network → Headers    | Debugging web page HTTP requests and responses |
+| **Postman**  | Response tab → Headers section   | API testing, debugging server responses |
+
+---
+
