@@ -126,9 +126,7 @@ Component	Description
 ![WhatsApp Image 2025-07-12 at 18 08 15_f805dfab](https://github.com/user-attachments/assets/cd056910-cde2-4fda-8a77-33592564b460)
 
 ---
-### output (CountryController) 
 
-![WhatsApp Image 2025-07-12 at 18 33 57_4f828125](https://github.com/user-attachments/assets/164452f6-a7cc-4c20-9516-4969b4bf5fec)
 
 
 ## HTTP Headers – Developer Tools vs Postman
@@ -192,4 +190,31 @@ Inspecting headers in Postman is especially helpful while testing APIs for:
 | **Postman**  | Response tab → Headers section   | API testing, debugging server responses |
 
 ---
+
+## Country REST API - Spring Boot
+
+### output (CountryController) 
+
+![WhatsApp Image 2025-07-12 at 18 33 57_4f828125](https://github.com/user-attachments/assets/164452f6-a7cc-4c20-9516-4969b4bf5fec)
+
+## Endpoint: `/country`
+
+Returns a country bean (India) as a JSON object by loading it from an XML config file.
+
+###  How it works:
+- Controller loads the `in` bean from `country.xml`
+- Bean is returned as a `Country` object
+- Spring Boot auto-converts the Java object to JSON via Jackson
+
+###  Tools:
+- Test in browser or Postman
+- Check HTTP headers using DevTools or Postman headers tab
+
+###  Sample Response:
+```json
+{
+  "code": "IN",
+  "name": "India"
+}
+
 
