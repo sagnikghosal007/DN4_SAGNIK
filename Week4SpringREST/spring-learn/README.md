@@ -213,11 +213,24 @@ Returns a country bean (India) as a JSON object by loading it from an XML config
 - Test in browser or Postman
 - Check HTTP headers using DevTools or Postman headers tab
 
+
 ###  Sample Response:
 ```json
 {
   "code": "IN",
   "name": "India"
 }
+```
+### JWT 
+- ### output :
+-  curl -s -u user:pwd http://localhost:8083/authenticate
+-  {"token":"<JWT_TOKEN>"}
+
+
+
+
+
+
+
 
 
