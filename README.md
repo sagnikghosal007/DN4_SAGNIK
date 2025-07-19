@@ -9,11 +9,11 @@ This repository contains all the weekly hands-on assignments that I completed du
 
 ###   Details
 
-- ** Author**: Sagnik Ghosal  
-- ** Superset ID**: 6411298  
-- ** College**: St. Thomas' College of Engineering and Technology  
-- ** Program**: Cognizant Digital Nurture Program 4.0  
-- ** Track**: Java Full Stack Engineering (FSE)
+-  ** Author**: Sagnik Ghosal  
+-  ** Superset ID**: 6411298  
+-  ** College**: St. Thomas' College of Engineering and Technology  
+-  ** Program**: Cognizant Digital Nurture Program 4.0  
+-  ** Track**: Java Full Stack Engineering (FSE)
 
 ---
 
